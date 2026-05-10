@@ -1,0 +1,22 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Northwind.Api/Northwind.Api.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/" />
+  <Folder Name="/src/Modules/Academic/">
+    <Project Path="src/Modules/Academic/Northwind.Modules.Academic.Contracts/Northwind.Modules.Academic.Contracts.csproj" />
+    <Project Path="src/Modules/Academic/Northwind.Modules.Academic/Northwind.Modules.Academic.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Assessment/">
+    <Project Path="src/Modules/Assessment/Northwind.Modules.Assessment.Contracts/Northwind.Modules.Assessment.Contracts.csproj" />
+    <Project Path="src/Modules/Assessment/Northwind.Modules.Assessment/Northwind.Modules.Assessment.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Identity/">
+    <Project Path="src/Modules/Identity/Northwind.Modules.Identity.Contracts/Northwind.Modules.Identity.Contracts.csproj" />
+    <Project Path="src/Modules/Identity/Northwind.Modules.Identity/Northwind.Modules.Identity.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/People/">
+    <Project Path="src/Modules/People/Northwind.Modules.People.Contracts/Northwind.Modules.People.Contracts.csproj" />
+    <Project Path="src/Modules/People/Northwind.Modules.People/Northwind.Modules.People.csproj" />
+  </Folder>
+</Solution>

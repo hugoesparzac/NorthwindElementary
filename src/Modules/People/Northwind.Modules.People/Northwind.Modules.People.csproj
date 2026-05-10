@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Northwind.Modules.People.Contracts\Northwind.Modules.People.Contracts.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>4f09dd8f-ebf2-4e0c-89d1-a6aa86ef7cf8</UserSecretsId>
+  </PropertyGroup>
+
+</Project>

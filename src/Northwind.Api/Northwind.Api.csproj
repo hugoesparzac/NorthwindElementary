@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>c52e5d69-7e5a-4261-bb1e-9c322fbeaa67</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Modules\Identity\Northwind.Modules.Identity\Northwind.Modules.Identity.csproj" />
+    <ProjectReference Include="..\Modules\People\Northwind.Modules.People\Northwind.Modules.People.csproj" />
+    <ProjectReference Include="..\Modules\Academic\Northwind.Modules.Academic\Northwind.Modules.Academic.csproj" />
+    <ProjectReference Include="..\Modules\Assessment\Northwind.Modules.Assessment\Northwind.Modules.Assessment.csproj" />
+  </ItemGroup>
+
+</Project>
