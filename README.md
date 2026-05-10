@@ -39,7 +39,7 @@ The project is being built as a long-term reference implementation focused on:
 
 ---
 
-# ✨ Technical Highlights
+## ✨ Technical Highlights
 
 - Modular Monolith architecture
 - Vertical Slice Architecture
@@ -52,7 +52,7 @@ The project is being built as a long-term reference implementation focused on:
 
 ---
 
-# 🏗️ Architectural Vision
+## 🏗️ Architectural Vision
 
 The system is designed to avoid the classic "Big Ball of Mud" anti-pattern by enforcing high cohesion, low coupling, and clear module boundaries.
 
@@ -99,7 +99,7 @@ The system is designed to avoid the classic "Big Ball of Mud" anti-pattern by en
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 ## Backend (.NET 10)
 
@@ -131,7 +131,7 @@ The system is designed to avoid the classic "Big Ball of Mud" anti-pattern by en
 
 ---
 
-# 📁 Project Structure
+## 📁 Project Structure
 
 ```text
 src/
